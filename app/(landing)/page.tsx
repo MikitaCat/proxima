@@ -45,7 +45,7 @@ const LandingPage = () => {
       </div>
       <Button className="mt-6" size="lg" asChild>
         <Link href="/sign-up">
-          View Proxima <ArrowRight />
+          View Application <ArrowRight />
         </Link>
       </Button>
     </div>
